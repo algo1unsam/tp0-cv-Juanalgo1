@@ -1,4 +1,10 @@
-# TP0-CV
+# TP0-CV - Juan Bautista Alvarez
 
 
-### xd
+
+## Videojuegos favoritos
+
+### - Plants Vs Zombies
+### - Buscaminas
+### - Curiosity – What's Inside the Cube?
+![curiosity](E:\Users\infolab\Downloads\curiosity.webp)
