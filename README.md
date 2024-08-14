@@ -16,4 +16,4 @@ Premisa extraña, conceptos simples, ejecución magistral. Me enseñó que, por 
 Clásico de clásicos. Tal y como fue concebido, fue la manera en la que aprendí a cliquear con un ratón. Es muy importante no perder de vista lo más importante. Después de todo, para caminar un kilómetro, primero hay que dar un paso; y para marcar un casillero, primero hay que revelar los adyacentes.
 #### - Curiosity – What's Inside the Cube?
 
-![curiosity](tp0-cv-Juanalgo1\curiosity.jpg)
+![curiosity](/tp0-cv-Juanalgo1/curiosity.jpg)
