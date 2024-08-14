@@ -1,6 +1,6 @@
 # TP0-CV - Juan Bautista Alvarez	
 
-![Verídico](/foto_real.jpg)
+![Verídico](/foto_real.jpg "Conocí a George Harrison (soy el de la derecha)")
 
 #### _Programador Júnior especializado en Paradigma Orientado a Mensajes (POM)_
 
@@ -10,12 +10,12 @@ Gmail de contacto: [jbalvarez@estudiantes.unsam.edu.ar](mailto:jbalvarez@estudia
 
 **Mi sueño es liderar proyectos para inspirar a las nuevas generaciones a continuar con mi genuina pasión:**
 
-###                              **Los videojuegos**
+###                              ***Los videojuegos***
 
 Hete aquí las entregas que me han convertido en la persona que soy hoy, los que me instan a seguir.
 ______________________________________________________
 
-### Videojuegos favoritos:
+## Videojuegos favoritos:
 ______________________________________________________
 
 
