@@ -1,8 +1,8 @@
-# TP0-CV - Juan Bautista Alvarez
-
-#### _Estudiante en Universidad Nacional de San Martín_
+# TP0-CV - Juan Bautista Alvarez	
 
 #### _Programador Júnior especializado en Paradigma Orientado a Mensajes (POM)_
+
+#### _Estudiante en Universidad Nacional de San Martín_
 
 Gmail de contacto: [jbalvarez@estudiantes.unsam.edu.ar](mailto:jbalvarez@estudiantes.unsam.edu.ar)
 
@@ -13,7 +13,8 @@ Gmail de contacto: [jbalvarez@estudiantes.unsam.edu.ar](mailto:jbalvarez@estudia
 Hete aquí las entregas que me han convertido en la persona que soy hoy, los que me instan a seguir.
 ______________________________________________________
 
-### \_Videojuegos favoritos\_
+### Videojuegos favoritos
+=
 ______________________________________________________
 
 
