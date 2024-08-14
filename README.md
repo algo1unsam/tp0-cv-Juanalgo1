@@ -1,6 +1,6 @@
 # TP0-CV - Juan Bautista Alvarez	
 
-![Verídico](/foto_real.jpg "Conocí a George Harrison (soy el de la derecha)")
+![Verídico](/foto_real.jpg)
 
 #### _Programador Júnior especializado en Paradigma Orientado a Mensajes (POM)_
 
