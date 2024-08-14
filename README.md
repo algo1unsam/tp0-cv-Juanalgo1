@@ -13,18 +13,19 @@ Gmail de contacto: [jbalvarez@estudiantes.unsam.edu.ar](mailto:jbalvarez@estudia
 Hete aquí las entregas que me han convertido en la persona que soy hoy, los que me instan a seguir.
 ______________________________________________________
 
-### Videojuegos favoritos
-=
+### Videojuegos favoritos:
 ______________________________________________________
 
 
-#### 1- Plants Vs Zombies
+#### 1- **Plants Vs Zombies**
 Premisa extraña, conceptos simples, ejecución magistral. Me enseñó que, por más que la mejor estrategia sea no pensar demasiado y actuar por inercia, es muy gratificante planificar estrategias estrafalarias.
 ______________________________________________________
-#### 2- Buscaminas
+#### 2- **Buscaminas**
 Clásico de clásicos. Tal y como fue concebido, fue la manera en la que aprendí a cliquear con un ratón. Es muy importante no perder de vista lo más importante. Después de todo, para caminar un kilómetro, primero hay que dar un paso; y para marcar un casillero, primero hay que revelar los adyacentes.
 ______________________________________________________
-#### 3- Curiosity – What's Inside the Cube?
+#### 3- **Curiosity – What's Inside the Cube?**
+\begin{center}
                               ![curiosity](/curiosity.jpg)
+\end{center}
 ¿Qué hay dentro de la caja? ¿Qué es lo que esconde? Lo que aprendí con este título es que no importa cuán duro trabajemos para conseguir algo, siempre lo terminará consiguiendo quien menos se esforzó.
 
